@@ -67,8 +67,6 @@ export default class IntroScene extends Phaser.Scene {
       .setOrigin(0.5);
 
     const rules = [
-      `5 holes \u00b7 Par is ${PAR_TOTAL}`,
-      "",
       "Drag from the ball to aim.",
       "Release, then TAP to stop the power meter.",
       "",

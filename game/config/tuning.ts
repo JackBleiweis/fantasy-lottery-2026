@@ -20,7 +20,7 @@ export const SINK_SPEED = 320; // must be slower than this to drop in the cup
 export const MIN_POWER = 0.14; // floor so a dead-stop tap still moves
 
 // Target score across all 5 holes (par total is 16). Lower = harder.
-export const DEFAULT_TARGET = 18;
+export const DEFAULT_TARGET = 16;
 
 // Wind is authored on a friendly 0-20 scale (shown to the player as a number).
 // Each unit converts to this much acceleration (px/s^2) on the ball. 20 units
