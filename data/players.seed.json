@@ -1,14 +1,44 @@
 {
   "picks": [
-    { "name": "Jack Bleiweis", "pick": 7 },
-    { "name": "Chase Bergman", "pick": 1 },
-    { "name": "Dustin Pulver", "pick": 10 },
-    { "name": "Michael Kagan", "pick": 4 },
-    { "name": "Jake Mintz", "pick": 12 },
-    { "name": "Ben Roher", "pick": 2 },
-    { "name": "Matthew Garay", "pick": 9 },
-    { "name": "Jack Beder", "pick": 5 },
-    { "name": "Brandon Marcello", "pick": 11 },
-    { "name": "Ty Greenberg", "pick": 3 }
+    {
+      "name": "Ben Roher",
+      "pick": 1
+    },
+    {
+      "name": "Chase Bergman",
+      "pick": 2
+    },
+    {
+      "name": "Jack Beder",
+      "pick": 3
+    },
+    {
+      "name": "Matthew Garay",
+      "pick": 4
+    },
+    {
+      "name": "Michael Kagan",
+      "pick": 5
+    },
+    {
+      "name": "Jack Bleiweis",
+      "pick": 6
+    },
+    {
+      "name": "Dustin Pulver",
+      "pick": 7
+    },
+    {
+      "name": "Brandon Marcello",
+      "pick": 8
+    },
+    {
+      "name": "Jake Mintz",
+      "pick": 9
+    },
+    {
+      "name": "Ty Greenberg",
+      "pick": 10
+    }
   ]
 }
